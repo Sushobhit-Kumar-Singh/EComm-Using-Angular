@@ -1,0 +1,72 @@
+{
+  "seller": [
+    {
+      "name": "Shobhit",
+      "email": "shobhit@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Indresh",
+      "email": "indresh@gmail.com",
+      "password": "098765",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "samsung m 40",
+      "price": "33000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Samsung Product",
+      "image": "https://i.gadgets360cdn.com/products/large/Samsung-Galaxy-S23-Ultra-782x800-1675282446.jpg?downsize=*:180",
+      "id": 1
+    },
+    {
+      "name": "iphone 14",
+      "price": "120000",
+      "color": "black",
+      "category": "moblie",
+      "description": "Apple product",
+      "image": "https://m.media-amazon.com/images/I/31qeR3U2bdL._SY445_SX342_QL70_FMwebp_.jpg",
+      "id": 2
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "56000",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "HP Laptop",
+      "image": "https://poshace.com/pub/media/catalog/product/cache/95ca844a72e649bb1089a2da1cdcef7d/h/p/hphd_10_.jpg",
+      "id": 3
+    },
+    {
+      "name": "samsung  w23",
+      "price": "65000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Samsung Mobile",
+      "image": "https://i.gadgets360cdn.com/products/large/samsung-galaxy-w23-605x800-1666447735.jpg?downsize=*:420&output-quality=80",
+      "id": 4
+    },
+    {
+      "name": "Royel Enfield",
+      "price": "140000",
+      "color": "Red",
+      "category": "Bike",
+      "description": "Royel Enfield Meteor 350",
+      "image": "https://www.financialexpress.com/wp-content/uploads/2023/01/royal-enfield-sales-december-2022.jpg",
+      "id": 5
+    },
+    {
+      "name": "Honda-680",
+      "price": "700000",
+      "color": "Green",
+      "category": "Car",
+      "description": "Electronic Car",
+      "image": "https://media.wired.com/photos/63b8d0a771c6b526845f15a6/master/w_1600,c_limit/CES-2023-PEUGEOT_INCEPTION_CONCEPT_2301CN202.jpg",
+      "id": 6
+    }
+  ]
+}
